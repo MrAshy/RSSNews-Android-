@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RefactorBalina</string>
+    <string name="Dialog_title_exit">Выход: Вы уверены?</string>
+    <string name="Dialog_negative_cancel">Отмена</string>
+    <string name="Dialog_title_network_unavaliable">Интернет отсутствует. Включите интернет и повторите попытку</string>
+    <string name="Dialog_negative_retry">Повторить</string>
+</resources>
